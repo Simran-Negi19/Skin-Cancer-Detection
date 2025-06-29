@@ -1,22 +1,22 @@
-# 🧬 Skin Cancer Detection using Deep Learning
+# Skin Cancer Detection using Deep Learning
 
 This project uses a Convolutional Neural Network (CNN) model to classify skin lesions as **Benign** or **Malignant** using medical image data. The final model is served via a user-friendly Gradio interface for easy testing and interaction.
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 📂 Image dataset mounted from Google Drive
-- 🧠 CNN-based classification model
-- 📊 Visualizations of data distribution and training performance
-- 🧪 Early stopping to avoid overfitting
-- ⚖️ Class balancing with `class_weight`
-- 🎛️ Interactive Gradio-based UI for predictions
-- ✅ Model accuracy and performance metrics displayed with plots
+- Image dataset mounted from Google Drive
+- CNN-based classification model
+- Visualizations of data distribution and training performance
+- Early stopping to avoid overfitting
+- ⚖Class balancing with `class_weight`
+- 🎛Interactive Gradio-based UI for predictions
+- Model accuracy and performance metrics displayed with plots
 
 ---
 
-## 🗂️ Dataset
+##  Dataset
 
 - **Source**: Private dataset uploaded in Google Drive
 - **Path Used in Colab**:  
