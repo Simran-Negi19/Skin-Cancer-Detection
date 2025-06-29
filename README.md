@@ -10,8 +10,8 @@ This project uses a Convolutional Neural Network (CNN) model to classify skin le
 - CNN-based classification model
 - Visualizations of data distribution and training performance
 - Early stopping to avoid overfitting
-- ⚖Class balancing with `class_weight`
-- 🎛Interactive Gradio-based UI for predictions
+- Class balancing with `class_weight`
+- Interactive Gradio-based UI for predictions
 - Model accuracy and performance metrics displayed with plots
 
 ---
